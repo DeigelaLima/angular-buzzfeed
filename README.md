@@ -1,5 +1,21 @@
 # ProjetoBuzzfeed
 
+
+Bem-vindo ao projeto BuzzFeed
+
+Este projeto incrível foi concebido durante o Bootcamp da Digital Innovation One - DIO, onde mergulhamos no fascinante mundo do Desenvolvimento Frontend com Angular. Utilizando uma combinação de TypeScript, HTML, CSS e o poderoso framework Angular, criamos uma experiência interativa e envolvente.
+
+O BuzzFeed oferece aos usuários a oportunidade única de explorar seu lado herói ou vilão. Ao percorrer o quizz, eles poderão selecionar seus poderes, preocupações, quem desejam salvar e seu foco. No final desta emocionante jornada, cada usuário receberá seu perfil personalizado, revelando se têm o coração de um herói ou a astúcia de um vilão!
+
+Prepare-se para desvendar o seu destino e embarcar nesta aventura épica de autodescoberta!
+
+### * Homepage
+![Home](/src/assets/imgs/HomePage.png)
+
+### * Final Result
+![ResultFinal](/src/assets/imgs/ResultFinal.png)
+
+<hr /><hr />
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
